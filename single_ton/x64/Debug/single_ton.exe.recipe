@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\single_ton\x64\Debug\single_ton.exe</FullPath>
+      <FullPath>D:\projects\single_ton\x64\Debug\single_ton.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
